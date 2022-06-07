@@ -22,7 +22,7 @@
       </div>
     </div>
   </div>
-  <button @click="ff()"></button>
+  <button @click="ff()">NEW GAME</button>
 </template>
 
 <script setup lang="ts">
