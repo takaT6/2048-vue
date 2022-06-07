@@ -1,5 +1,10 @@
 import { createApp } from 'vue'
-import App from './App.vue'
-const app = createApp(App)
+import './style.css';
 
+import App from './vue/App.vue'
+const app = createApp(App)
 app.mount('#app')
+
+// import Body from './vue/Body.vue'
+// const app = createApp(Body)
+// app.mount('#app')
