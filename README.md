@@ -1,27 +1,19 @@
-# 2048 Vue.js + TypeScript + Webpack
-play => https://heretics-of-nagasaki.com/2048/
-<img width="747" alt="スクリーンショット 2022-06-08 2 14 55" src="https://user-images.githubusercontent.com/77357587/172443443-caac45af-43ad-4351-a2a8-de4e650a96ad.png">
-
 # Change Log
 2022/06/07/02:21 まともに動くソースをアップロード ToDo-> スマホ対応
 
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+# 2048 Vue.js + TypeScript + Webpack
  
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
- 
-"hoge"が何かを簡潔に紹介する
+2048 game
  
 # DEMO
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+play => https://heretics-of-nagasaki.com/2048/
+<img width="747" alt="スクリーンショット 2022-06-08 2 14 55" src="https://user-images.githubusercontent.com/77357587/172443443-caac45af-43ad-4351-a2a8-de4e650a96ad.png">
  
 # Features
  
 "hoge"のセールスポイントや差別化などを説明する
  
 # Requirement
- 
-"hoge"を動かすのに必要なライブラリなどを列挙する
  
 * huga 3.5.2
 * hogehuga 1.0.2
