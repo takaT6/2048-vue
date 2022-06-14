@@ -1,6 +1,3 @@
-# Change Log
-2022/06/07/02:21 まともに動くソースをアップロード ToDo-> スマホ対応
-
 # 2048 Vue.js + TypeScript + Webpack
  
 2048 game
@@ -15,15 +12,18 @@ play => https://heretics-of-nagasaki.com/2048/
  
 # Requirement
  
-* huga 3.5.2
-* hogehuga 1.0.2
- 
+* webpack 5.72.1
+* webpack-cli 4.9.2
+* webpack-dev-server 4.9.1
+* typescript 4.7.2
+* ts-loader 9.3.0
+* .
+* .
+Please see "package.json".
+
 # Installation
- 
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
 ```bash
-pip install huga_package
+npm install
 ```
  
 # Usage
@@ -31,28 +31,11 @@ pip install huga_package
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
  
 ```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+npm run build
+
+npm run start
 ```
  
 # Note
- 
-注意点などがあれば書く
- 
-# Author
- 
-作成情報を列挙する
- 
-* 作成者
-* 所属
-* E-mail
- 
-# License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
+2022/06/07/02:21 まともに動くソースをアップロード ToDo-> スマホ対応
+
