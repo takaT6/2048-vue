@@ -19,14 +19,17 @@ Please see "package.json".
 
 # Installation
 ```bash
+# install dependencies
 npm install
 ```
  
 # Usage
  
 ```bash
+# app build
 npm run build
 
+# serve with hot reload
 npm run start
 ```
  
