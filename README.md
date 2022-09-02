@@ -1,6 +1,7 @@
 # 2048 Vue.js + TypeScript + Webpack
  
 2048 game
+Vue.jsに触れてみる第一弾です。クオリティは求めないでください。
  
 # DEMO
 play => https://heretics-of-nagasaki.com/2048/
